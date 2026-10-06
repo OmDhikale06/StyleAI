@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbfaf8"/><stop offset="1" stop-color="#f1eee9"/></linearGradient><filter id="shadow"><feGaussianBlur stdDeviation="9"/></filter></defs>
+<rect width="600" height="800" fill="url(#bg)"/><ellipse cx="300" cy="665" rx="150" ry="24" fill="#0f172a" opacity=".10" filter="url(#shadow)"/>
+<text x="36" y="48" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#64748b">STYLEAI · ACCESSORIES</text>
+<text x="564" y="48" text-anchor="end" font-family="Arial,sans-serif" font-size="13" fill="#94a3b8">Front</text>
+<g transform="translate(0 15)"><g><rect x="275" y="130" width="50" height="520" rx="22" fill="#7b4b2a" stroke="#4a2a18" stroke-width="4"/><circle cx="300" cy="390" r="105" fill="#111827" stroke="#4a2a18" stroke-width="10"/><circle cx="300" cy="390" r="8" fill="#fff"/><path d="M300 390 L300 330 M300 390 L350 420" stroke="#fff" stroke-width="8" stroke-linecap="round"/></g></g>
+<rect x="36" y="704" width="528" height="1" fill="#d6d3d1"/>
+<circle cx="48" cy="744" r="8" fill="#7b4b2a" stroke="#334155" stroke-opacity=".35"/>
+<text x="68" y="751" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#172033">Brown Leather Strap Watch</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbfaf8"/><stop offset="1" stop-color="#f1eee9"/></linearGradient><filter id="shadow"><feGaussianBlur stdDeviation="9"/></filter></defs>
+<rect width="600" height="800" fill="url(#bg)"/><ellipse cx="300" cy="665" rx="150" ry="24" fill="#0f172a" opacity=".10" filter="url(#shadow)"/>
+<text x="36" y="48" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#64748b">STYLEAI · TROUSERS</text>
+<text x="564" y="48" text-anchor="end" font-family="Arial,sans-serif" font-size="13" fill="#94a3b8">Front</text>
+<g transform="translate(0 15)"><g><path d="M245 185 L355 185 L370 330 L350 650 L315 650 L300 405 L285 650 L250 650 L230 330 Z" fill="#8a9199" stroke="#4b5563" stroke-width="4"/><path d="M255 235 L285 255 M345 235 L315 255" stroke="#fff" stroke-opacity=".45" stroke-width="7"/><path d="M300 190 L300 640" stroke="#fff" stroke-opacity=".22" stroke-width="4"/></g></g>
+<rect x="36" y="704" width="528" height="1" fill="#d6d3d1"/>
+<circle cx="48" cy="744" r="8" fill="#8a9199" stroke="#334155" stroke-opacity=".35"/>
+<text x="68" y="751" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#172033">High-Waist Yoga Leggings</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbfaf8"/><stop offset="1" stop-color="#f1eee9"/></linearGradient><filter id="shadow"><feGaussianBlur stdDeviation="9"/></filter></defs>
+<rect width="600" height="800" fill="url(#bg)"/><ellipse cx="300" cy="665" rx="150" ry="24" fill="#0f172a" opacity=".10" filter="url(#shadow)"/>
+<text x="36" y="48" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#64748b">STYLEAI · T-SHIRTS</text>
+<text x="564" y="48" text-anchor="end" font-family="Arial,sans-serif" font-size="13" fill="#94a3b8">Front</text>
+<g transform="translate(0 15)"><g><path d="M255 185 L288 168 L312 168 L345 185 L380 285 L358 470 L242 470 L220 285 Z" fill="#8a9199" stroke="#4b5563" stroke-width="4"/><path d="M245 205 L175 250 L202 315 L248 286" fill="#8a9199" stroke="#4b5563" stroke-width="4"/><path d="M355 205 L425 250 L398 315 L352 286" fill="#8a9199" stroke="#4b5563" stroke-width="4"/><path d="M285 178 Q300 198 315 178" fill="none" stroke="#4b5563" stroke-width="8"/></g></g>
+<rect x="36" y="704" width="528" height="1" fill="#d6d3d1"/>
+<circle cx="48" cy="744" r="8" fill="#8a9199" stroke="#334155" stroke-opacity=".35"/>
+<text x="68" y="751" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#172033">Basic Gym Tee</text>
+</svg>

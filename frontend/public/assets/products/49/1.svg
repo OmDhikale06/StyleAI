@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbfaf8"/><stop offset="1" stop-color="#f1eee9"/></linearGradient><filter id="shadow"><feGaussianBlur stdDeviation="9"/></filter></defs>
+<rect width="600" height="800" fill="url(#bg)"/><ellipse cx="300" cy="665" rx="150" ry="24" fill="#0f172a" opacity=".10" filter="url(#shadow)"/>
+<text x="36" y="48" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#64748b">STYLEAI · BAGS</text>
+<text x="564" y="48" text-anchor="end" font-family="Arial,sans-serif" font-size="13" fill="#94a3b8">3/4 View</text>
+<g transform="translate(35 15) skewX(-6) scale(.92 1)"><g><path d="M210 260 Q210 180 300 180 Q390 180 390 260 L430 600 Q435 625 410 630 L190 630 Q165 625 170 600 Z" fill="#171717" stroke="#050505" stroke-width="5"/><path d="M245 245 Q245 145 300 145 Q355 145 355 245" fill="none" stroke="#050505" stroke-width="22" stroke-linecap="round"/><rect x="220" y="360" width="160" height="100" rx="18" fill="#fff" opacity=".16" stroke="#fff" stroke-opacity=".45" stroke-width="4"/><rect x="255" y="500" width="90" height="20" rx="10" fill="#fff" opacity=".25"/></g></g><circle cx="495" cy="140" r="42" fill="#171717" opacity=".10"/>
+<rect x="36" y="704" width="528" height="1" fill="#d6d3d1"/>
+<circle cx="48" cy="744" r="8" fill="#171717" stroke="#334155" stroke-opacity=".35"/>
+<text x="68" y="751" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#172033">Everyday Laptop Backpack</text>
+</svg>
