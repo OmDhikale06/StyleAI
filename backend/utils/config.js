@@ -17,6 +17,6 @@ export const config = {
     database: process.env.DB_NAME || "ai_fashion_db",
     port: Number(process.env.DB_PORT) || 3306,
     // Most hosted MySQL providers require TLS: set DB_SSL=true
-    ...(process.env.DB_SSL === "true" ? { ssl: { rejectUnauthorized: true } } : {}),
+    ...(process.env.DB_SSL === "true" ? { ssl: { rejectUnauthorized: false } } : {}),
   },
 };
